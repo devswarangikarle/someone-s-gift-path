@@ -1,0 +1,2 @@
+# someone-s-gift-path
+ an n*m grid and the gift is located at {k, l},  string that contains characters {L, R, D, U},  tell whether he will reach {k, l}. L , R , U  and D . Assuming (x, y) is the initial point, here's how L, R, D, and U works in a grid: L : moves to (x-1, y) R : moves to (x+1, y) D : moves to (x, y-1) U : moves to (x, y+1)
